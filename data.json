@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11 02:51",
+  "updated_at": "28.11 03:51",
   "offers": [
     {
       "country": "Вьетнам",
@@ -10,7 +10,7 @@
       "checkin": "01.03.2027",
       "checkout": "18.03.2027",
       "nights": 17,
-      "price": 151120,
+      "price": 151118,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -72,7 +72,7 @@
       "checkin": "07.03.2027",
       "checkout": "19.03.2027",
       "nights": 12,
-      "price": 98260,
+      "price": 98258,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -103,7 +103,7 @@
       "checkin": "03.04.2027",
       "checkout": "13.04.2027",
       "nights": 10,
-      "price": 98760,
+      "price": 98758,
       "stops": 1,
       "duration_hours": 23.1,
       "links": [
@@ -134,7 +134,7 @@
       "checkin": "06.03.2027",
       "checkout": "18.03.2027",
       "nights": 12,
-      "price": 98876,
+      "price": 98874,
       "stops": 1,
       "duration_hours": 23.5,
       "links": [
@@ -165,7 +165,7 @@
       "checkin": "02.04.2027",
       "checkout": "13.04.2027",
       "nights": 11,
-      "price": 123920,
+      "price": 123918,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -227,7 +227,7 @@
       "checkin": "17.05.2027",
       "checkout": "03.06.2027",
       "nights": 17,
-      "price": 100226,
+      "price": 100224,
       "stops": 1,
       "duration_hours": 23.0,
       "links": [
@@ -258,7 +258,7 @@
       "checkin": "12.03.2027",
       "checkout": "27.03.2027",
       "nights": 15,
-      "price": 137390,
+      "price": 137388,
       "stops": 1,
       "duration_hours": 20.0,
       "links": [
@@ -289,7 +289,7 @@
       "checkin": "04.03.2027",
       "checkout": "16.03.2027",
       "nights": 12,
-      "price": 163422,
+      "price": 163420,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -320,7 +320,7 @@
       "checkin": "17.05.2027",
       "checkout": "05.06.2027",
       "nights": 19,
-      "price": 103024,
+      "price": 103022,
       "stops": 1,
       "duration_hours": 20.7,
       "links": [
@@ -351,7 +351,7 @@
       "checkin": "02.03.2027",
       "checkout": "14.03.2027",
       "nights": 12,
-      "price": 144836,
+      "price": 144834,
       "stops": 1,
       "duration_hours": 23.5,
       "links": [
@@ -382,7 +382,7 @@
       "checkin": "05.05.2027",
       "checkout": "19.05.2027",
       "nights": 14,
-      "price": 56408,
+      "price": 56406,
       "stops": 1,
       "duration_hours": 10.3,
       "links": [
@@ -413,7 +413,7 @@
       "checkin": "03.03.2027",
       "checkout": "13.03.2027",
       "nights": 10,
-      "price": 60498,
+      "price": 60496,
       "stops": 0,
       "duration_hours": null,
       "links": [
