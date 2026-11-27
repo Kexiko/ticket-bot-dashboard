@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.11 13:51",
+  "updated_at": "27.11 14:51",
   "offers": [
     {
       "country": "Вьетнам",
@@ -10,7 +10,7 @@
       "checkin": "04.03.2027",
       "checkout": "18.03.2027",
       "nights": 14,
-      "price": 162998,
+      "price": 163000,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -41,7 +41,7 @@
       "checkin": "07.03.2027",
       "checkout": "19.03.2027",
       "nights": 12,
-      "price": 98318,
+      "price": 98320,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -72,7 +72,7 @@
       "checkin": "08.03.2027",
       "checkout": "24.03.2027",
       "nights": 16,
-      "price": 102084,
+      "price": 102086,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -103,7 +103,7 @@
       "checkin": "18.03.2027",
       "checkout": "01.04.2027",
       "nights": 14,
-      "price": 99586,
+      "price": 99588,
       "stops": 1,
       "duration_hours": 21.8,
       "links": [
@@ -134,7 +134,7 @@
       "checkin": "19.03.2027",
       "checkout": "06.04.2027",
       "nights": 18,
-      "price": 134332,
+      "price": 134334,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -158,6 +158,37 @@
     },
     {
       "country": "Китай",
+      "city": "Гуанчжоу",
+      "origin": "SVX",
+      "origin_name": "Екатеринбург",
+      "destination": "CAN",
+      "checkin": "22.05.2027",
+      "checkout": "06.06.2027",
+      "nights": 15,
+      "price": 83924,
+      "stops": 1,
+      "duration_hours": 11.0,
+      "links": [
+        {
+          "name": "Aviasales",
+          "url": "https://www.aviasales.ru/search/SVX2205CAN06062"
+        },
+        {
+          "name": "Trip.com",
+          "url": "https://www.trip.com/hotels/list?city=32&cityName=Guangzhou&checkIn=2027-05-22&checkOut=2027-06-06&adult=2&children=0&crn=1"
+        },
+        {
+          "name": "Островок",
+          "url": "https://ostrovok.ru/hotel/china/guangzhou/?search=yes&dates=22.05.2027-06.06.2027&guests=2"
+        },
+        {
+          "name": "Яндекс Путешествия",
+          "url": "https://travel.yandex.ru/hotels/guangzhou/?checkinDate=2027-05-22&checkoutDate=2027-06-06&adults=2"
+        }
+      ]
+    },
+    {
+      "country": "Китай",
       "city": "Шанхай",
       "origin": "SVX",
       "origin_name": "Екатеринбург",
@@ -165,7 +196,7 @@
       "checkin": "17.05.2027",
       "checkout": "03.06.2027",
       "nights": 17,
-      "price": 100286,
+      "price": 100288,
       "stops": 1,
       "duration_hours": 23.0,
       "links": [
@@ -189,37 +220,6 @@
     },
     {
       "country": "Китай",
-      "city": "Гуанчжоу",
-      "origin": "SVX",
-      "origin_name": "Екатеринбург",
-      "destination": "CAN",
-      "checkin": "02.03.2027",
-      "checkout": "15.03.2027",
-      "nights": 13,
-      "price": 102746,
-      "stops": 1,
-      "duration_hours": 15.2,
-      "links": [
-        {
-          "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0103CAN15032"
-        },
-        {
-          "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=32&cityName=Guangzhou&checkIn=2027-03-02&checkOut=2027-03-15&adult=2&children=0&crn=1"
-        },
-        {
-          "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/china/guangzhou/?search=yes&dates=02.03.2027-15.03.2027&guests=2"
-        },
-        {
-          "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/guangzhou/?checkinDate=2027-03-02&checkoutDate=2027-03-15&adults=2"
-        }
-      ]
-    },
-    {
-      "country": "Китай",
       "city": "Пекин",
       "origin": "SVX",
       "origin_name": "Екатеринбург",
@@ -227,7 +227,7 @@
       "checkin": "12.03.2027",
       "checkout": "27.03.2027",
       "nights": 15,
-      "price": 137472,
+      "price": 137474,
       "stops": 1,
       "duration_hours": 20.0,
       "links": [
@@ -258,7 +258,7 @@
       "checkin": "04.03.2027",
       "checkout": "16.03.2027",
       "nights": 12,
-      "price": 163518,
+      "price": 163522,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -289,9 +289,9 @@
       "checkin": "16.04.2027",
       "checkout": "28.04.2027",
       "nights": 12,
-      "price": 117316,
+      "price": 117946,
       "stops": 1,
-      "duration_hours": 20.9,
+      "duration_hours": 20.8,
       "links": [
         {
           "name": "Aviasales",
@@ -320,7 +320,7 @@
       "checkin": "02.03.2027",
       "checkout": "14.03.2027",
       "nights": 12,
-      "price": 144398,
+      "price": 144400,
       "stops": 1,
       "duration_hours": 23.5,
       "links": [
@@ -351,7 +351,7 @@
       "checkin": "09.05.2027",
       "checkout": "24.05.2027",
       "nights": 15,
-      "price": 56756,
+      "price": 56758,
       "stops": 1,
       "duration_hours": 23.8,
       "links": [
