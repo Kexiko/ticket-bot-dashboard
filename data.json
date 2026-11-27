@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.11 18:51",
+  "updated_at": "27.11 19:51",
   "offers": [
     {
       "country": "Вьетнам",
@@ -10,7 +10,7 @@
       "checkin": "01.03.2027",
       "checkout": "18.03.2027",
       "nights": 17,
-      "price": 151308,
+      "price": 151108,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -41,7 +41,7 @@
       "checkin": "03.03.2027",
       "checkout": "12.03.2027",
       "nights": 9,
-      "price": 94226,
+      "price": 94102,
       "stops": 1,
       "duration_hours": 18.5,
       "links": [
@@ -72,7 +72,7 @@
       "checkin": "07.03.2027",
       "checkout": "19.03.2027",
       "nights": 12,
-      "price": 98382,
+      "price": 98252,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -103,7 +103,7 @@
       "checkin": "18.03.2027",
       "checkout": "01.04.2027",
       "nights": 14,
-      "price": 99652,
+      "price": 99520,
       "stops": 1,
       "duration_hours": 21.8,
       "links": [
@@ -134,7 +134,7 @@
       "checkin": "19.03.2027",
       "checkout": "06.04.2027",
       "nights": 18,
-      "price": 134420,
+      "price": 134242,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -165,7 +165,7 @@
       "checkin": "22.05.2027",
       "checkout": "06.06.2027",
       "nights": 15,
-      "price": 83978,
+      "price": 83866,
       "stops": 1,
       "duration_hours": 11.0,
       "links": [
@@ -196,7 +196,7 @@
       "checkin": "17.05.2027",
       "checkout": "03.06.2027",
       "nights": 17,
-      "price": 100352,
+      "price": 100218,
       "stops": 1,
       "duration_hours": 23.0,
       "links": [
@@ -227,7 +227,7 @@
       "checkin": "12.03.2027",
       "checkout": "27.03.2027",
       "nights": 15,
-      "price": 137560,
+      "price": 137380,
       "stops": 1,
       "duration_hours": 20.0,
       "links": [
@@ -258,7 +258,7 @@
       "checkin": "04.03.2027",
       "checkout": "16.03.2027",
       "nights": 12,
-      "price": 163624,
+      "price": 163410,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -286,28 +286,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "BKK",
-      "checkin": "16.04.2027",
-      "checkout": "28.04.2027",
-      "nights": 12,
-      "price": 118020,
+      "checkin": "17.05.2027",
+      "checkout": "05.06.2027",
+      "nights": 19,
+      "price": 103016,
       "stops": 1,
-      "duration_hours": 20.8,
+      "duration_hours": 20.7,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX1504BKK28042"
+          "url": "https://www.aviasales.ru/search/SVX1605BKK05062"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=359&cityName=Bangkok&checkIn=2027-04-16&checkOut=2027-04-28&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=359&cityName=Bangkok&checkIn=2027-05-17&checkOut=2027-06-05&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/thailand/bangkok/?search=yes&dates=16.04.2027-28.04.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/thailand/bangkok/?search=yes&dates=17.05.2027-05.06.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/bangkok/?checkinDate=2027-04-16&checkoutDate=2027-04-28&adults=2"
+          "url": "https://travel.yandex.ru/hotels/bangkok/?checkinDate=2027-05-17&checkoutDate=2027-06-05&adults=2"
         }
       ]
     },
@@ -320,7 +320,7 @@
       "checkin": "02.03.2027",
       "checkout": "14.03.2027",
       "nights": 12,
-      "price": 145016,
+      "price": 144826,
       "stops": 1,
       "duration_hours": 23.5,
       "links": [
@@ -349,27 +349,27 @@
       "origin_name": "Екатеринбург",
       "destination": "IST",
       "checkin": "09.05.2027",
-      "checkout": "24.05.2027",
-      "nights": 15,
-      "price": 56794,
+      "checkout": "21.05.2027",
+      "nights": 12,
+      "price": 58176,
       "stops": 1,
       "duration_hours": 23.8,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0805IST24052"
+          "url": "https://www.aviasales.ru/search/SVX0805IST21052"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=532&cityName=Istanbul&checkIn=2027-05-09&checkOut=2027-05-24&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=532&cityName=Istanbul&checkIn=2027-05-09&checkOut=2027-05-21&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/turkey/istanbul/?search=yes&dates=09.05.2027-24.05.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/turkey/istanbul/?search=yes&dates=09.05.2027-21.05.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/istanbul/?checkinDate=2027-05-09&checkoutDate=2027-05-24&adults=2"
+          "url": "https://travel.yandex.ru/hotels/istanbul/?checkinDate=2027-05-09&checkoutDate=2027-05-21&adults=2"
         }
       ]
     },
@@ -379,28 +379,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "AYT",
-      "checkin": "04.03.2027",
-      "checkout": "17.03.2027",
-      "nights": 13,
-      "price": 58932,
+      "checkin": "11.03.2027",
+      "checkout": "22.03.2027",
+      "nights": 11,
+      "price": 59542,
       "stops": 1,
-      "duration_hours": 15.6,
+      "duration_hours": 15.4,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0303AYT17032"
+          "url": "https://www.aviasales.ru/search/SVX1003AYT22032"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=1217&cityName=Antalya&checkIn=2027-03-04&checkOut=2027-03-17&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=1217&cityName=Antalya&checkIn=2027-03-11&checkOut=2027-03-22&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/turkey/antalya/?search=yes&dates=04.03.2027-17.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/turkey/antalya/?search=yes&dates=11.03.2027-22.03.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/antalya/?checkinDate=2027-03-04&checkoutDate=2027-03-17&adults=2"
+          "url": "https://travel.yandex.ru/hotels/antalya/?checkinDate=2027-03-11&checkoutDate=2027-03-22&adults=2"
         }
       ]
     }
