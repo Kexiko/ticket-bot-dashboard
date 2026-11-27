@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.11 11:51",
+  "updated_at": "27.11 12:52",
   "offers": [
     {
       "country": "Вьетнам",
@@ -10,7 +10,7 @@
       "checkin": "04.03.2027",
       "checkout": "18.03.2027",
       "nights": 14,
-      "price": 162998,
+      "price": 163000,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -41,7 +41,7 @@
       "checkin": "16.03.2027",
       "checkout": "26.03.2027",
       "nights": 10,
-      "price": 98634,
+      "price": 98636,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -165,7 +165,7 @@
       "checkin": "17.05.2027",
       "checkout": "03.06.2027",
       "nights": 17,
-      "price": 100286,
+      "price": 100288,
       "stops": 1,
       "duration_hours": 23.0,
       "links": [
@@ -227,7 +227,7 @@
       "checkin": "12.03.2027",
       "checkout": "27.03.2027",
       "nights": 15,
-      "price": 137472,
+      "price": 137474,
       "stops": 1,
       "duration_hours": 20.0,
       "links": [
@@ -258,7 +258,7 @@
       "checkin": "04.03.2027",
       "checkout": "16.03.2027",
       "nights": 12,
-      "price": 163520,
+      "price": 163522,
       "stops": 0,
       "duration_hours": null,
       "links": [
@@ -289,7 +289,7 @@
       "checkin": "17.05.2027",
       "checkout": "05.06.2027",
       "nights": 19,
-      "price": 102146,
+      "price": 102148,
       "stops": 1,
       "duration_hours": 20.7,
       "links": [
