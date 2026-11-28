@@ -1,34 +1,34 @@
 {
-  "updated_at": "28.11 13:35",
+  "updated_at": "28.11 13:39",
   "offers": [
     {
-      "country": "Вьетнам",
-      "city": "Нячанг",
+      "country": "Египет",
+      "city": "Хургада",
       "origin": "SVX",
       "origin_name": "Екатеринбург",
-      "destination": "NHA",
-      "checkin": "01.03.2027",
-      "checkout": "18.03.2027",
-      "nights": 17,
-      "price": 151080,
+      "destination": "HRG",
+      "checkin": "16.03.2027",
+      "checkout": "28.03.2027",
+      "nights": 12,
+      "price": 98550,
       "stops": 0,
       "duration_hours": null,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0103NHA18032"
+          "url": "https://www.aviasales.ru/search/SVX1603HRG28032"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=1777&cityName=Nha%20Trang&checkIn=2027-03-01&checkOut=2027-03-18&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=3471&cityName=Hurghada&checkIn=2027-03-16&checkOut=2027-03-28&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/vietnam/nha_trang/?search=yes&dates=01.03.2027-18.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/egypt/hurghada/?search=yes&dates=16.03.2027-28.03.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/nha-trang/?checkinDate=2027-03-01&checkoutDate=2027-03-18&adults=2"
+          "url": "https://travel.yandex.ru/hotels/hurghada/?checkinDate=2027-03-16&checkoutDate=2027-03-28&adults=2"
         }
       ]
     },
@@ -38,59 +38,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "SSH",
-      "checkin": "03.03.2027",
-      "checkout": "12.03.2027",
-      "nights": 9,
-      "price": 94084,
-      "stops": 1,
-      "duration_hours": 18.5,
-      "links": [
-        {
-          "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0203SSH12032"
-        },
-        {
-          "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=36242&cityName=Sharm%20El%20Sheikh&checkIn=2027-03-03&checkOut=2027-03-12&adult=2&children=0&crn=1"
-        },
-        {
-          "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/egypt/sharm_el_sheikh/?search=yes&dates=03.03.2027-12.03.2027&guests=2"
-        },
-        {
-          "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/sharm-el-sheikh/?checkinDate=2027-03-03&checkoutDate=2027-03-12&adults=2"
-        }
-      ]
-    },
-    {
-      "country": "Египет",
-      "city": "Хургада",
-      "origin": "SVX",
-      "origin_name": "Екатеринбург",
-      "destination": "HRG",
-      "checkin": "14.03.2027",
-      "checkout": "26.03.2027",
+      "checkin": "17.03.2027",
+      "checkout": "29.03.2027",
       "nights": 12,
-      "price": 96852,
+      "price": 106482,
       "stops": 0,
       "duration_hours": null,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX1403HRG26032"
+          "url": "https://www.aviasales.ru/search/SVX1703SSH29032"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=3471&cityName=Hurghada&checkIn=2027-03-14&checkOut=2027-03-26&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=36242&cityName=Sharm%20El%20Sheikh&checkIn=2027-03-17&checkOut=2027-03-29&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/egypt/hurghada/?search=yes&dates=14.03.2027-26.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/egypt/sharm_el_sheikh/?search=yes&dates=17.03.2027-29.03.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/hurghada/?checkinDate=2027-03-14&checkoutDate=2027-03-26&adults=2"
+          "url": "https://travel.yandex.ru/hotels/sharm-el-sheikh/?checkinDate=2027-03-17&checkoutDate=2027-03-29&adults=2"
         }
       ]
     },
@@ -100,59 +69,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "DEL",
-      "checkin": "03.04.2027",
-      "checkout": "13.04.2027",
-      "nights": 10,
-      "price": 98734,
+      "checkin": "18.03.2027",
+      "checkout": "04.04.2027",
+      "nights": 17,
+      "price": 103912,
       "stops": 1,
-      "duration_hours": 23.1,
+      "duration_hours": 21.9,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0204DEL13042"
+          "url": "https://www.aviasales.ru/search/SVX1703DEL04042"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=495&cityName=Delhi&checkIn=2027-04-03&checkOut=2027-04-13&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=495&cityName=Delhi&checkIn=2027-03-18&checkOut=2027-04-04&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/india/delhi/?search=yes&dates=03.04.2027-13.04.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/india/delhi/?search=yes&dates=18.03.2027-04.04.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/delhi/?checkinDate=2027-04-03&checkoutDate=2027-04-13&adults=2"
-        }
-      ]
-    },
-    {
-      "country": "Индия",
-      "city": "Мумбаи",
-      "origin": "SVX",
-      "origin_name": "Екатеринбург",
-      "destination": "BOM",
-      "checkin": "06.03.2027",
-      "checkout": "18.03.2027",
-      "nights": 12,
-      "price": 98850,
-      "stops": 1,
-      "duration_hours": 23.5,
-      "links": [
-        {
-          "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0503BOM18032"
-        },
-        {
-          "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=724&cityName=Mumbai&checkIn=2027-03-06&checkOut=2027-03-18&adult=2&children=0&crn=1"
-        },
-        {
-          "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/india/mumbai/?search=yes&dates=06.03.2027-18.03.2027&guests=2"
-        },
-        {
-          "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/mumbai/?checkinDate=2027-03-06&checkoutDate=2027-03-18&adults=2"
+          "url": "https://travel.yandex.ru/hotels/delhi/?checkinDate=2027-03-18&checkoutDate=2027-04-04&adults=2"
         }
       ]
     },
@@ -162,28 +100,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "GOI",
-      "checkin": "02.04.2027",
-      "checkout": "13.04.2027",
-      "nights": 11,
-      "price": 123888,
+      "checkin": "19.03.2027",
+      "checkout": "06.04.2027",
+      "nights": 18,
+      "price": 134218,
       "stops": 0,
       "duration_hours": null,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0204GOI13042"
+          "url": "https://www.aviasales.ru/search/SVX1903GOI06042"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=536249&cityName=Goa&checkIn=2027-04-02&checkOut=2027-04-13&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=536249&cityName=Goa&checkIn=2027-03-19&checkOut=2027-04-06&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/india/goa/?search=yes&dates=02.04.2027-13.04.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/india/goa/?search=yes&dates=19.03.2027-06.04.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/goa/?checkinDate=2027-04-02&checkoutDate=2027-04-13&adults=2"
+          "url": "https://travel.yandex.ru/hotels/goa/?checkinDate=2027-03-19&checkoutDate=2027-04-06&adults=2"
         }
       ]
     },
@@ -255,59 +193,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "BJS",
-      "checkin": "02.03.2027",
-      "checkout": "16.03.2027",
-      "nights": 14,
-      "price": 145604,
+      "checkin": "08.05.2027",
+      "checkout": "19.05.2027",
+      "nights": 11,
+      "price": 146286,
       "stops": 1,
-      "duration_hours": 21.5,
+      "duration_hours": 20.2,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0103BJS16032"
+          "url": "https://www.aviasales.ru/search/SVX0705BJS19052"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=1&cityName=Beijing&checkIn=2027-03-02&checkOut=2027-03-16&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=1&cityName=Beijing&checkIn=2027-05-08&checkOut=2027-05-19&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/china/beijing/?search=yes&dates=02.03.2027-16.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/china/beijing/?search=yes&dates=08.05.2027-19.05.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/beijing/?checkinDate=2027-03-02&checkoutDate=2027-03-16&adults=2"
-        }
-      ]
-    },
-    {
-      "country": "Китай",
-      "city": "Санья",
-      "origin": "SVX",
-      "origin_name": "Екатеринбург",
-      "destination": "SYX",
-      "checkin": "04.03.2027",
-      "checkout": "16.03.2027",
-      "nights": 12,
-      "price": 163380,
-      "stops": 0,
-      "duration_hours": null,
-      "links": [
-        {
-          "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0403SYX16032"
-        },
-        {
-          "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=43&cityName=Sanya&checkIn=2027-03-04&checkOut=2027-03-16&adult=2&children=0&crn=1"
-        },
-        {
-          "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/china/sanya/?search=yes&dates=04.03.2027-16.03.2027&guests=2"
-        },
-        {
-          "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/sanya/?checkinDate=2027-03-04&checkoutDate=2027-03-16&adults=2"
+          "url": "https://travel.yandex.ru/hotels/beijing/?checkinDate=2027-05-08&checkoutDate=2027-05-19&adults=2"
         }
       ]
     },
@@ -339,37 +246,6 @@
         {
           "name": "Яндекс Путешествия",
           "url": "https://travel.yandex.ru/hotels/bangkok/?checkinDate=2027-05-17&checkoutDate=2027-06-05&adults=2"
-        }
-      ]
-    },
-    {
-      "country": "Таиланд",
-      "city": "Пхукет",
-      "origin": "SVX",
-      "origin_name": "Екатеринбург",
-      "destination": "HKT",
-      "checkin": "02.03.2027",
-      "checkout": "14.03.2027",
-      "nights": 12,
-      "price": 144798,
-      "stops": 1,
-      "duration_hours": 23.5,
-      "links": [
-        {
-          "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0103HKT14032"
-        },
-        {
-          "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=725&cityName=Phuket&checkIn=2027-03-02&checkOut=2027-03-14&adult=2&children=0&crn=1"
-        },
-        {
-          "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/thailand/phuket/?search=yes&dates=02.03.2027-14.03.2027&guests=2"
-        },
-        {
-          "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/phuket/?checkinDate=2027-03-02&checkoutDate=2027-03-14&adults=2"
         }
       ]
     },
@@ -410,28 +286,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "AYT",
-      "checkin": "03.03.2027",
-      "checkout": "13.03.2027",
-      "nights": 10,
-      "price": 60428,
+      "checkin": "12.04.2027",
+      "checkout": "27.04.2027",
+      "nights": 15,
+      "price": 61682,
       "stops": 0,
       "duration_hours": null,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0303AYT13032"
+          "url": "https://www.aviasales.ru/search/SVX1204AYT27042"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=1217&cityName=Antalya&checkIn=2027-03-03&checkOut=2027-03-13&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=1217&cityName=Antalya&checkIn=2027-04-12&checkOut=2027-04-27&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/turkey/antalya/?search=yes&dates=03.03.2027-13.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/turkey/antalya/?search=yes&dates=12.04.2027-27.04.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/antalya/?checkinDate=2027-03-03&checkoutDate=2027-03-13&adults=2"
+          "url": "https://travel.yandex.ru/hotels/antalya/?checkinDate=2027-04-12&checkoutDate=2027-04-27&adults=2"
         }
       ]
     }
