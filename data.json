@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.11 11:51",
+  "updated_at": "28.11 12:51",
   "offers": [
     {
       "country": "Вьетнам",
@@ -69,28 +69,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "HRG",
-      "checkin": "07.03.2027",
-      "checkout": "19.03.2027",
+      "checkin": "14.03.2027",
+      "checkout": "26.03.2027",
       "nights": 12,
-      "price": 98234,
+      "price": 96852,
       "stops": 0,
       "duration_hours": null,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX0703HRG19032"
+          "url": "https://www.aviasales.ru/search/SVX1403HRG26032"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=3471&cityName=Hurghada&checkIn=2027-03-07&checkOut=2027-03-19&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=3471&cityName=Hurghada&checkIn=2027-03-14&checkOut=2027-03-26&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/egypt/hurghada/?search=yes&dates=07.03.2027-19.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/egypt/hurghada/?search=yes&dates=14.03.2027-26.03.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/hurghada/?checkinDate=2027-03-07&checkoutDate=2027-03-19&adults=2"
+          "url": "https://travel.yandex.ru/hotels/hurghada/?checkinDate=2027-03-14&checkoutDate=2027-03-26&adults=2"
         }
       ]
     },
@@ -255,28 +255,28 @@
       "origin": "SVX",
       "origin_name": "Екатеринбург",
       "destination": "BJS",
-      "checkin": "12.03.2027",
-      "checkout": "27.03.2027",
-      "nights": 15,
-      "price": 137354,
+      "checkin": "02.03.2027",
+      "checkout": "16.03.2027",
+      "nights": 14,
+      "price": 145604,
       "stops": 1,
-      "duration_hours": 20.0,
+      "duration_hours": 21.5,
       "links": [
         {
           "name": "Aviasales",
-          "url": "https://www.aviasales.ru/search/SVX1103BJS27032"
+          "url": "https://www.aviasales.ru/search/SVX0103BJS16032"
         },
         {
           "name": "Trip.com",
-          "url": "https://www.trip.com/hotels/list?city=1&cityName=Beijing&checkIn=2027-03-12&checkOut=2027-03-27&adult=2&children=0&crn=1"
+          "url": "https://www.trip.com/hotels/list?city=1&cityName=Beijing&checkIn=2027-03-02&checkOut=2027-03-16&adult=2&children=0&crn=1"
         },
         {
           "name": "Островок",
-          "url": "https://ostrovok.ru/hotel/china/beijing/?search=yes&dates=12.03.2027-27.03.2027&guests=2"
+          "url": "https://ostrovok.ru/hotel/china/beijing/?search=yes&dates=02.03.2027-16.03.2027&guests=2"
         },
         {
           "name": "Яндекс Путешествия",
-          "url": "https://travel.yandex.ru/hotels/beijing/?checkinDate=2027-03-12&checkoutDate=2027-03-27&adults=2"
+          "url": "https://travel.yandex.ru/hotels/beijing/?checkinDate=2027-03-02&checkoutDate=2027-03-16&adults=2"
         }
       ]
     },
