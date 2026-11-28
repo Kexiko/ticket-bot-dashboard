@@ -1,6 +1,70 @@
 {
-  "updated_at": "28.11 15:29",
+  "updated_at": "28.11 15:35",
   "offers": [
+    {
+      "country": "Индия",
+      "group": "Индия",
+      "city": "Дели",
+      "origin": "SVX",
+      "origin_name": "Екатеринбург",
+      "destination": "DEL",
+      "checkin": "18.03.2027",
+      "checkout": "04.04.2027",
+      "nights": 17,
+      "price": 103912,
+      "stops": 1,
+      "duration_hours": 21.9,
+      "links": [
+        {
+          "name": "Aviasales",
+          "url": "https://www.aviasales.ru/search/SVX1703DEL04042"
+        },
+        {
+          "name": "Trip.com",
+          "url": "https://www.trip.com/hotels/list?city=495&cityName=Delhi&checkIn=2027-03-18&checkOut=2027-04-04&adult=2&children=0&crn=1"
+        },
+        {
+          "name": "Островок",
+          "url": "https://ostrovok.ru/hotel/india/delhi/?search=yes&dates=18.03.2027-04.04.2027&guests=2"
+        },
+        {
+          "name": "Яндекс Путешествия",
+          "url": "https://travel.yandex.ru/hotels/delhi/?checkinDate=2027-03-18&checkoutDate=2027-04-04&adults=2"
+        }
+      ]
+    },
+    {
+      "country": "Индия",
+      "group": "Индия",
+      "city": "Гоа",
+      "origin": "SVX",
+      "origin_name": "Екатеринбург",
+      "destination": "GOI",
+      "checkin": "19.03.2027",
+      "checkout": "06.04.2027",
+      "nights": 18,
+      "price": 134218,
+      "stops": 0,
+      "duration_hours": null,
+      "links": [
+        {
+          "name": "Aviasales",
+          "url": "https://www.aviasales.ru/search/SVX1903GOI06042"
+        },
+        {
+          "name": "Trip.com",
+          "url": "https://www.trip.com/hotels/list?city=536249&cityName=Goa&checkIn=2027-03-19&checkOut=2027-04-06&adult=2&children=0&crn=1"
+        },
+        {
+          "name": "Островок",
+          "url": "https://ostrovok.ru/hotel/india/goa/?search=yes&dates=19.03.2027-06.04.2027&guests=2"
+        },
+        {
+          "name": "Яндекс Путешествия",
+          "url": "https://travel.yandex.ru/hotels/goa/?checkinDate=2027-03-19&checkoutDate=2027-04-06&adults=2"
+        }
+      ]
+    },
     {
       "country": "Китай",
       "group": "Китай (самый дешёвый)",
